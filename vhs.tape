@@ -36,10 +36,6 @@
 #   Down[@<time>] [number]          Press the Down Arrow key
 #   Ctrl+<key>                      Press the Control key + <key> (e.g. Ctrl+C)
 #
-# Display:
-#   Hide                            Hide the subsequent commands from the output
-#   Show                            Show the subsequent commands in the output
-
 Output vhs.gif
 Output vhs.mp4
 Output vhs.webm
